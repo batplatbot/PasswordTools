@@ -87,7 +87,7 @@ Generate username lists for OSINT and enumeration.
 ## Installation
 
 ```bash
-git clone https://github.com/CodeScripting/PasswordTools
+git clone https://github.com/batplatbot/PasswordTools
 cd PasswordTools
 pip install -r requirements.txt
 python3 main.py
